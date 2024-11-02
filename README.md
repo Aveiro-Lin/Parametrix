@@ -21,21 +21,21 @@ To address these issues, this algorithm integrates two key strategies:
 **Complex Numbers as Initial Guesses:** In cases of divergence, complex numbers are used as initial guesses, allowing the algorithm to explore smoother, alternative convergence paths and avoid zero Jacobian matrices.
 These strategies have been tested on various nonlinear systems relevant to engineering and physics, including:
 
-1. Arrhenius chemical reactions
+**1. Arrhenius chemical reactions**
 
 <div align="center">
   <img src="Figure/Arrhenius_Chemical_Reaction_Nonlinear_System.jpg" width="650">
   <p><i>Figure 2: Iterative Procedure for Solving Arrhenius Chemical Reaction Nonlinear System</i></p>
 </div>
 
-2. Transient heat conduction with temperature-dependent conductivities
+**2. Transient heat conduction with temperature-dependent conductivities**
 
 <div align="center">
   <img src="Figure/Copper_Plate_Heat_Conduction.jpg" width="650">
   <p><i>Figure 3: Simple Copper Plate Heat Conduction Example</i></p>
 </div>
 
-3. Adversarial dynamics in Generative Adversarial Networks (GANs)
+**3. Adversarial dynamics in Generative Adversarial Networks (GANs)**
 
 <div align="center">
   <img src="Figure/GAN_Dynamics_System.jpg" width="650">
