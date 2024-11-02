@@ -4,7 +4,7 @@
 This repository implements an enhanced version of the Newton-Raphson Method (NRM) named Parametrix aimed at overcoming common convergence issues in nonlinear systems. 
 
 <div align="center">
-  <img src="docs/Simple_PA_Algorithm.png" width="650">
+  <img src="docs/Simple_PA_Algorithm.jpg" width="650">
   <p><i>Figure 1: Simple PA algorithm Implementation</i></p>
 </div>
 
@@ -24,21 +24,21 @@ These strategies have been tested on various nonlinear systems relevant to engin
 1. Arrhenius chemical reactions
 
 <div align="center">
-  <img src="docs/Arrhenius_Chemical_Reaction_Nonlinear_System.png" width="650">
+  <img src="docs/Arrhenius_Chemical_Reaction_Nonlinear_System.jpg" width="650">
   <p><i>Figure 2: Iterative Procedure for Solving Arrhenius Chemical Reaction Nonlinear System</i></p>
 </div>
 
 2. Transient heat conduction with temperature-dependent conductivities
 
 <div align="center">
-  <img src="docs/Copper_Plate_Heat_Conduction.png" width="650">
+  <img src="docs/Copper_Plate_Heat_Conduction.jpg" width="650">
   <p><i>Figure 3: Simple Copper Plate Heat Conduction Example</i></p>
 </div>
 
 3. Adversarial dynamics in Generative Adversarial Networks (GANs)
 
 <div align="center">
-  <img src="docs/GAN_Dynamics_System.png" width="650">
+  <img src="docs/GAN_Dynamics_System.jpg" width="650">
   <p><i>Figure 4: RR Cluster with Surrounding CRs in GAN Dynamics System</i></p>
 </div>
 
