@@ -38,7 +38,7 @@ These strategies have been tested on various nonlinear systems relevant to engin
 **3. Adversarial dynamics in Generative Adversarial Networks (GANs)**
 
 <div align="center">
-  <img src="Figure/GAN_Dynamics_System.jpg" width="650">
+  <img src="Figure/GANs_Dynamics_System.jpg" width="650">
   <p><i>Figure 4: RR Cluster with Surrounding CRs in GAN Dynamics System</i></p>
 </div>
 
